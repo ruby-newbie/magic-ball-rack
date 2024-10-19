@@ -14,7 +14,7 @@ class App
           <title>Magic Ball</title>
           <head>
         <body>
-          <main><h1>#{answer}</h1></main>
+          <main><h1>Ответ: #{answer}</h1></main>
         </body>
       </html>
     HTML
